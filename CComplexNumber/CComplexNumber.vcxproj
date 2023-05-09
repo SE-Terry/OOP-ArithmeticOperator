@@ -130,6 +130,9 @@
   <ItemGroup>
     <ClCompile Include="CComplexNumber.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="CComplexNumber.h" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
